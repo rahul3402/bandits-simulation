@@ -1,2 +1,2 @@
-# bandits-simulation
-Simulation of different strategies for the multi-armed bandit problem.
+# Bandits-Simulation
+## Simulation of different strategies for the multi-armed bandit problem.
